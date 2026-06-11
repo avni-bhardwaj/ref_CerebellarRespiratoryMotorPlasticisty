@@ -1,0 +1,28 @@
+body{
+    background-color: #F6F3EB;
+}
+li{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    padding: 2px;
+}
+h1{
+    text-align: center;
+    color: #869B7E;
+    margin: 0px;
+}
+div{
+    position: relative;
+    top: 15px;
+    background-color: #C9CAAC;
+    
+}
+ul {
+  color: #7F2020;  
+  list-style: none;        
+  padding: 25px;              
+}
+footer{
+    text-align: right;
+}
