@@ -13,6 +13,6 @@ div{
     top: 15px;
 }
 ul {  
-  list-style:none;        
+  list-style:decimal;        
   padding: 25px;              
 }
